@@ -1,0 +1,21 @@
+{
+  "motoristas": [
+    {
+      "id": "1746468932112",
+      "nome": "clara",
+      "data_nascimento": "14/08/1890",
+      "carteira_habilitacao": "0998272743",
+      "onibus_id": "2324"
+    }
+  ],
+  "onibus": [
+    {
+      "id": "1746469001613",
+      "placa": "52g52",
+      "modelo": "mecerdes",
+      "ano_fabricado": "1890",
+      "capacidade": "390",
+      "motorista_id": "6997"
+    }
+  ]
+}
